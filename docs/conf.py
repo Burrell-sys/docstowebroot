@@ -20,5 +20,5 @@ html_static_path = ['_static']
 
 # ✅ Bing Verification (WORKING METHOD)
 html_context = {
-    "metatags": '<meta name="msvalidate.01" content="92E92CF18F98DBD28332B06C14F5E81B" />'
+    "metatags": '<meta name="msvalidate.01" content="214C7D8E0F7332F4B60D0DB6AD29FA86" />'
 }
